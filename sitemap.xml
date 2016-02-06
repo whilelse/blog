@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.whilelse.com/2016/reactive-box/</loc>
+    <lastmod>2016-02-06T16:12:22.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://blog.whilelse.com/2016/hello-world/</loc>
     <lastmod>2016-01-28T19:14:05.000Z</lastmod>
   </url>
